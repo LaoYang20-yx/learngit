@@ -12,3 +12,5 @@ This is the second modify.So third modify on this
 (11th stash test)
 (12th modify on the 2ed learngit )
 (12th modify on the 1st leangit)
+
+(12th02 modify on the 2ed learngit_02)
